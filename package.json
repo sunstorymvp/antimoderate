@@ -1,0 +1,10 @@
+{
+  "name": "antimoderate",
+  "version": "0.0.1",
+  "description": "antimoderate",
+  "main": "antimoderate.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
