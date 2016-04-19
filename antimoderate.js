@@ -276,5 +276,7 @@
     populate_shg(54);
     populate_shg(74);
 
-    module.exports = AntiModerate = { "process": am.processImage };
+    var AntiModerate = { "process": am.processImage };
+
+    module.exports = AntiModerate;
 })();
